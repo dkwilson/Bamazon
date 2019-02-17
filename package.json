@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "inventory manager",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkwilson/Bamazon.git"
+  },
+  "author": "dkeith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkwilson/Bamazon/issues"
+  },
+  "homepage": "https://github.com/dkwilson/Bamazon#readme",
+  "dependencies": {
+    "inquirer": "^6.2.2",
+    "mysql": "^2.16.0"
+  }
+}
